@@ -138,7 +138,7 @@ php artisan serve
 
 ## ৭. নিয়ম
 
-- সময়: **১.৫ – ২ ঘণ্টা**
+- সময়: **১ ঘণ্টা ২০ মিনিট**
 - Google, StackOverflow আর অফিসিয়াল ডকুমেন্টেশন (laravel.com/docs, developer.mozilla.org) ব্যবহার করতে পারবেন।
 - প্রতিটা কাজ শেষে আলাদা git commit করবেন:
   - `feat: style course card`
