@@ -1,0 +1,180 @@
+{
+  "categories": [
+    { "id": 1, "name": "Programming" },
+    { "id": 2, "name": "Design" },
+    { "id": 3, "name": "Marketing" },
+    { "id": 4, "name": "Data Science" }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Flutter Basics: Build Your First App",
+      "instructor": "Tanvir Hasan",
+      "categoryId": 1,
+      "shortSummary": "Learn how to build a real mobile app with Flutter from scratch, starting with widgets and layouts, then moving on to state, navigation and fetching live data from a REST API so that by the end you have a working app you can show to others.",
+      "description": "This course is for people who know a little programming and want to build their first mobile app. You will set up Flutter, understand how widgets work, and build screens using rows, columns and stacks. We cover the difference between stateless and stateful widgets with simple examples. In the last lesson you will fetch data from a REST API and show it in a list. By the end you will have a small but complete app running on your phone.",
+      "price": 1200,
+      "rating": 4.7,
+      "durationMinutes": 95,
+      "thumbnail": "https://picsum.photos/seed/course1/600/400"
+    },
+    {
+      "id": 2,
+      "title": "Python for Absolute Beginners",
+      "instructor": "Nusrat Jahan",
+      "categoryId": 1,
+      "shortSummary": "Start programming with Python, even if you have never written a line of code.",
+      "description": "Python is one of the easiest languages to start with, and this course assumes no experience at all. You will install Python, run your first script, and learn about variables, numbers and text. Then you will make decisions with if statements and repeat work with loops. We also cover lists and dictionaries, which you will use in almost every program. Finally, you will write your own functions to keep your code clean.",
+      "price": 0,
+      "rating": 4.8,
+      "durationMinutes": 105,
+      "thumbnail": "https://picsum.photos/seed/course2/600/400"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript and the DOM",
+      "instructor": "Mahmudul Hasan Rafi",
+      "categoryId": 1,
+      "shortSummary": "Make web pages interactive by changing content and reacting to user clicks.",
+      "description": "Plain HTML pages cannot respond to the user, and that is where JavaScript comes in. This course explains how the browser loads and runs your scripts. You will learn to select elements on the page and change their text, style and attributes. We then handle clicks, form submissions and keyboard events. Every lesson ends with a small exercise you can try in your own browser.",
+      "price": 999.5,
+      "rating": 4.3,
+      "durationMinutes": 100,
+      "thumbnail": "https://picsum.photos/seed/course3/600/400"
+    },
+    {
+      "id": 4,
+      "title": "UI Design Fundamentals with Figma",
+      "instructor": "Farzana Akter",
+      "categoryId": 2,
+      "shortSummary": "Understand the basic rules of good interface design and practise them in Figma, covering grids, spacing, alignment, color and typography, and finish by designing a clean login screen that you can add to your portfolio right away.",
+      "description": "Good design is not about talent, it is about following a few clear rules. In this course you will learn your way around Figma and its most useful tools. We look at grids, spacing and alignment, which make a screen feel tidy. You will also learn how to pick colors and fonts that work well together. In the final lesson you will design a complete login screen step by step.",
+      "price": 899,
+      "rating": 4.6,
+      "durationMinutes": 125,
+      "thumbnail": "https://picsum.photos/seed/course4/600/400"
+    },
+    {
+      "id": 5,
+      "title": "Logo Design for Small Businesses",
+      "instructor": "Sabbir Ahmed",
+      "categoryId": 2,
+      "shortSummary": "Design simple, memorable logos for local shops and small brands.",
+      "description": "Many small businesses need a logo but cannot afford a big agency. This course shows you what makes a logo simple and easy to remember. You will start by sketching ideas on paper before touching the computer. Then you will turn the best sketch into clean vector shapes. You will finish with a logo you can deliver to a real client.",
+      "price": 499.5,
+      "rating": 3.9,
+      "durationMinutes": 65,
+      "thumbnail": "https://picsum.photos/seed/course5/600/400"
+    },
+    {
+      "id": 6,
+      "title": "Facebook Marketing for Local Shops",
+      "instructor": "Rumana Islam",
+      "categoryId": 3,
+      "shortSummary": "Grow a local business using a Facebook page and a small ad budget.",
+      "description": "Most customers in Bangladesh find local shops through Facebook. This course helps you set up a business page properly, with the right photos and information. You will learn how to write posts that people actually stop and read. We then run a small boosted post together and talk about choosing the right audience. Finally, you will learn to read Page Insights to see what is working.",
+      "price": 0,
+      "rating": 4.1,
+      "durationMinutes": 80,
+      "thumbnail": "https://picsum.photos/seed/course6/600/400"
+    },
+    {
+      "id": 7,
+      "title": "SEO Basics: Get Found on Google",
+      "instructor": "Imran Hossain",
+      "categoryId": 3,
+      "shortSummary": "Learn how search engines decide which pages to show first, how to find the keywords your customers are searching for, and how to improve your titles, headings and links so your website slowly climbs higher in Google results.",
+      "description": "If people cannot find your website, it does not matter how good it is. This course explains in plain language how search engines rank pages. You will do keyword research with free tools and learn to pick realistic targets. We cover on-page SEO, such as titles, headings and internal links. You will also learn safe ways to earn backlinks and how to track your progress in Google Search Console.",
+      "price": 1500,
+      "rating": 4.4,
+      "durationMinutes": 140,
+      "thumbnail": "https://picsum.photos/seed/course7/600/400"
+    },
+    {
+      "id": 8,
+      "title": "Excel for Data Analysis",
+      "instructor": "Sharmin Sultana",
+      "categoryId": 4,
+      "shortSummary": "Clean, summarise and analyse everyday office data using Excel.",
+      "description": "Excel is still the most common data tool in offices. In this course you will learn to clean messy data, such as extra spaces, duplicates and wrong formats. You will practise the formulas that come up every day, including SUMIF, COUNTIF and XLOOKUP. Then we build pivot tables step by step to summarise large sheets in seconds. All examples use realistic sales and attendance data.",
+      "price": 749.5,
+      "rating": 4.5,
+      "durationMinutes": 105,
+      "thumbnail": "https://picsum.photos/seed/course8/600/400"
+    },
+    {
+      "id": 9,
+      "title": "SQL for Beginners",
+      "instructor": "Arif Rahman",
+      "categoryId": 4,
+      "shortSummary": "Write SQL queries to get answers from a database on your own.",
+      "description": "Almost every app stores its data in a database, and SQL is how you talk to it. This course starts with what a database and a table actually are. You will write SELECT queries and filter and sort the results. Then you will group and count rows to answer real business questions. In the last lesson you will join tables together to combine related data.",
+      "price": 1800,
+      "rating": 4.2,
+      "durationMinutes": 120,
+      "thumbnail": "https://picsum.photos/seed/course9/600/400"
+    },
+    {
+      "id": 10,
+      "title": "Machine Learning with Python: A Gentle Start",
+      "instructor": "Dr. Kamrul Islam",
+      "categoryId": 4,
+      "shortSummary": "A friendly first step into machine learning that explains the core ideas without heavy maths, shows you how to prepare data with pandas, and walks you through training and testing your very first prediction model in Python.",
+      "description": "Machine learning can sound scary, but the core ideas are simple. This course explains what a model is and how it learns from examples. You will use pandas to load and prepare a real dataset. Then you will train a linear regression model to predict house prices. Finally, you will learn how to measure whether your model is actually any good.",
+      "price": 2500,
+      "rating": 4.9,
+      "durationMinutes": 135,
+      "thumbnail": "https://picsum.photos/seed/course10/600/400"
+    }
+  ],
+  "lessons": [
+    { "id": 1, "courseId": 1, "title": "Setting Up Flutter and Your First Project", "durationMinutes": 25, "order": 1 },
+    { "id": 2, "courseId": 1, "title": "Layouts with Row, Column and Stack", "durationMinutes": 30, "order": 3 },
+    { "id": 3, "courseId": 1, "title": "Understanding Widgets: Stateless vs Stateful", "durationMinutes": 20, "order": 2 },
+    { "id": 4, "courseId": 1, "title": "Fetching Data from a REST API", "durationMinutes": 20, "order": 4 },
+
+    { "id": 5, "courseId": 2, "title": "Installing Python and Running Your First Script", "durationMinutes": 15, "order": 1 },
+    { "id": 6, "courseId": 2, "title": "Variables, Numbers and Strings", "durationMinutes": 20, "order": 2 },
+    { "id": 7, "courseId": 2, "title": "If Statements and Loops", "durationMinutes": 25, "order": 3 },
+    { "id": 8, "courseId": 2, "title": "Lists and Dictionaries", "durationMinutes": 25, "order": 4 },
+    { "id": 9, "courseId": 2, "title": "Writing Your Own Functions", "durationMinutes": 20, "order": 5 },
+
+    { "id": 10, "courseId": 3, "title": "Selecting and Changing Elements", "durationMinutes": 35, "order": 2 },
+    { "id": 11, "courseId": 3, "title": "How the Browser Reads JavaScript", "durationMinutes": 20, "order": 1 },
+    { "id": 12, "courseId": 3, "title": "Handling Clicks, Forms and Events", "durationMinutes": 45, "order": 3 },
+
+    { "id": 13, "courseId": 4, "title": "Getting Around Figma", "durationMinutes": 20, "order": 1 },
+    { "id": 14, "courseId": 4, "title": "Grids, Spacing and Alignment", "durationMinutes": 30, "order": 2 },
+    { "id": 15, "courseId": 4, "title": "Color and Typography Choices", "durationMinutes": 35, "order": 3 },
+    { "id": 16, "courseId": 4, "title": "Designing a Login Screen from Scratch", "durationMinutes": 40, "order": 4 },
+
+    { "id": 17, "courseId": 5, "title": "What Makes a Logo Work", "durationMinutes": 15, "order": 1 },
+    { "id": 18, "courseId": 5, "title": "Turning Sketches into Vector Shapes", "durationMinutes": 30, "order": 3 },
+    { "id": 19, "courseId": 5, "title": "Sketching Ideas on Paper", "durationMinutes": 20, "order": 2 },
+
+    { "id": 20, "courseId": 6, "title": "Setting Up a Business Page the Right Way", "durationMinutes": 15, "order": 1 },
+    { "id": 21, "courseId": 6, "title": "Writing Posts People Actually Read", "durationMinutes": 20, "order": 2 },
+    { "id": 22, "courseId": 6, "title": "Running Your First Boosted Post", "durationMinutes": 25, "order": 3 },
+    { "id": 23, "courseId": 6, "title": "Reading Page Insights", "durationMinutes": 20, "order": 4 },
+
+    { "id": 24, "courseId": 7, "title": "How Search Engines Rank Pages", "durationMinutes": 20, "order": 1 },
+    { "id": 25, "courseId": 7, "title": "Keyword Research with Free Tools", "durationMinutes": 30, "order": 2 },
+    { "id": 26, "courseId": 7, "title": "On-Page SEO: Titles, Headings and Links", "durationMinutes": 35, "order": 3 },
+    { "id": 27, "courseId": 7, "title": "Tracking Results with Search Console", "durationMinutes": 25, "order": 5 },
+    { "id": 28, "courseId": 7, "title": "Building Backlinks Without Spamming", "durationMinutes": 30, "order": 4 },
+
+    { "id": 29, "courseId": 8, "title": "Cleaning Messy Data", "durationMinutes": 30, "order": 1 },
+    { "id": 30, "courseId": 8, "title": "Formulas You Will Use Every Day", "durationMinutes": 35, "order": 2 },
+    { "id": 31, "courseId": 8, "title": "Pivot Tables Step by Step", "durationMinutes": 40, "order": 3 },
+
+    { "id": 32, "courseId": 9, "title": "What Is a Database?", "durationMinutes": 15, "order": 1 },
+    { "id": 33, "courseId": 9, "title": "SELECT, WHERE and ORDER BY", "durationMinutes": 30, "order": 2 },
+    { "id": 34, "courseId": 9, "title": "Joining Tables", "durationMinutes": 40, "order": 4 },
+    { "id": 35, "courseId": 9, "title": "Grouping and Counting with GROUP BY", "durationMinutes": 35, "order": 3 },
+
+    { "id": 36, "courseId": 10, "title": "What Machine Learning Really Means", "durationMinutes": 20, "order": 1 },
+    { "id": 37, "courseId": 10, "title": "Preparing Data with pandas", "durationMinutes": 40, "order": 2 },
+    { "id": 38, "courseId": 10, "title": "Your First Model: Linear Regression", "durationMinutes": 45, "order": 3 },
+    { "id": 39, "courseId": 10, "title": "Measuring How Good Your Model Is", "durationMinutes": 30, "order": 4 }
+  ]
+}
